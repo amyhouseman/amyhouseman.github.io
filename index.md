@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+# Amy Houseman (she/her) 
 
-You can use the [editor on GitHub](https://github.com/amyhouseman/amyhouseman.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+###### Amy Houseman is a final year Bsc (Hons) Genetics student at Edge Hill University, UK. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+###### Her interests include genomics and bioinformatics in relation to the diagnosis and pathogenicity of human genetic disease.
+###### Amy completed a year working in the Big Data Biology Group at Fudan University, advised by Prof. Luis Pedro Coelho from September 2019 to June 2020. It was here that she completed two projects in the field of applied bioinformatics. One project involved identifying and classifying a cryptic Antimicrobial Peptide (AMP) recovered from human gut metagenome data using [MACREL](https://macrel.readthedocs.io/en/latest/), a tool created by her colleague Célio Dias Santos-Junior. Her final project involved curating a database showing the interaction between microbes in the human gut and psychotropic drugs. This database was in collaboration with The Hust group at Huazhong University of Science and Technology.
 
-### Markdown
+###### You can find a research overview of Amy's work in Shanghai [here.](https://www.linkedin.com/posts/amy-houseman-genetics_cryptic-antimicrobial-peptides-amps-in-activity-6724671316764438529-d5Sv)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+###### Amy's final year dissertation project focuses on the creating of an R tool that will identify and model mutations from patients with Autosomal Recessive Congenital Ichthyosis. After completion of this project, June 2021, Amy hopes to undertake a PhD in a field relating to human disease and genetics/genomics.
 
-```markdown
-Syntax highlighted code block
+###### You can contact Amy on her [LinkedIn](https://www.linkedin.com/in/amy-houseman-genetics/) profile, or through email: amy_houseman@live.co.uk, or on twitter @amyhouseman__ 
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/amyhouseman/amyhouseman.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+###### Amy Houseman's CV is also available [here.](https://1drv.ms/b/s!ArwhyLzdnOxrgP5eIMSjcukE0qAGaQ)
+ 
