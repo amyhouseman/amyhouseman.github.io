@@ -1,5 +1,5 @@
 # Amy Houseman (she/her) 
-![](https://github.com/amyhouseman/amyhouseman.github.io/blob/main/images/thumbnail_Image1.jpg "Profile picture")
+<img src="https://github.com/amyhouseman/amyhouseman.github.io/blob/main/images/thumbnail_Image1.jpg" width="100" height="100">
 
 ###### Amy Houseman is a final year Bsc (Hons) Genetics student at Edge Hill University, UK. 
 
