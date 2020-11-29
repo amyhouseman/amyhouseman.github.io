@@ -8,7 +8,7 @@
 
 ###### You can find a research overview of Amy's work in Shanghai [here.](https://www.linkedin.com/posts/amy-houseman-genetics_cryptic-antimicrobial-peptides-amps-in-activity-6724671316764438529-d5Sv)
 
-###### Amy's final year dissertation project focuses on the creating of an R tool that will identify and model mutations from patients with Autosomal Recessive Congenital Ichthyosis. After completion of this project, June 2021, Amy hopes to undertake a PhD in a field relating to human disease and genetics/genomics.
+###### Amy's final year dissertation project focuses on the creating of an R-based pipeline that will identify and model mutations from patients with Autosomal Recessive Congenital Ichthyosis. After completion of this project, June 2021, Amy hopes to undertake a PhD in a field relating to human disease and genetics/genomics.
 
 ###### You can contact Amy on her [LinkedIn](https://www.linkedin.com/in/amy-houseman-genetics/) profile, or through email: amy_houseman@live.co.uk, or on twitter @amyhouseman__ 
 
