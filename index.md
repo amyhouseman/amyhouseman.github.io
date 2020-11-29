@@ -12,5 +12,5 @@
 
 ###### You can contact Amy on her [LinkedIn](https://www.linkedin.com/in/amy-houseman-genetics/) profile, or through email: amy_houseman@live.co.uk, or on twitter @amyhouseman__ 
 
-###### Amy Houseman's CV is also available [here.](https://1drv.ms/b/s!ArwhyLzdnOxrgP5eIMSjcukE0qAGaQ)
+###### Amy Houseman's CV is also available [here.](https://1drv.ms/b/s!ArwhyLzdnOxrgsErK_87QJ7xJjLVVw?e=5w7N3B)
  
